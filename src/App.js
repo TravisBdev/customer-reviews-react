@@ -1,7 +1,8 @@
 function App() {
-  return (
+   return (
       <div className="container">
-        <h1>My App</h1>
+        <h1>This is my App</h1>
+        <p>This is my body</p>
       </div>
   )
 
