@@ -4,6 +4,7 @@ import FeedbackList from "./components/FeedbackList";
 import FeedbackData from "./data/FeedbackData";
 
 function App() {
+  // eslint-disable-next-line no-unused-vars
   const [feedback, setFeedback] = useState(FeedbackData);
   return (
     <>
