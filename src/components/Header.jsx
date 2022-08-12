@@ -16,7 +16,7 @@ function Header({ text, bgColor, textColor }) {
 }
 
 Header.defaultProps = {
-  text: "Hello Everyone",
+  text: "T.Brown's Web Development",
   bgColor: "rgba(0,0,0,0.4)",
   textColor: "#ff6a95",
 };
